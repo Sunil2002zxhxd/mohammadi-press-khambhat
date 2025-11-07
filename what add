@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="gu">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mohammadi Press Khambhat</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+      text-align: center;
+      padding-top: 100px;
+    }
+    h1 {
+      color: #333;
+    }
+    .btn {
+      background-color: #25D366;
+      color: white;
+      padding: 15px 25px;
+      font-size: 20px;
+      border: none;
+      border-radius: 8px;
+      text-decoration: none;
+    }
+    .btn:hover {
+      background-color: #128C7E;
+    }
+  </style>
+</head>
+<body>
+  <h1>🖨️ Mohammadi Press - Khambhat</h1>
+  <p>તમારો ઓર્ડર મોકલવા માટે નીચે ક્લિક કરો 👇</p>
+  
+  <!-- અહીં તમારો WhatsApp નંબર નાખો -->
+  <a class="btn" href="https://wa.me/9825547625?text=નમસ્તે%20મારે%20ઓર્ડર%20મોકલવો%20છે%20Mohammadi%20Press%20માટે" target="_blank">
+    🟢 WhatsApp Order કરો
+  </a>
+</body>
+</html>
